@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jakobleck
-- 👀 I’m interested in physics, chess and music.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @jakobleck, a mysterious creature from somewhere in the heart of Europe. :)
 - 📫 How to reach me ...
 
 <!---
